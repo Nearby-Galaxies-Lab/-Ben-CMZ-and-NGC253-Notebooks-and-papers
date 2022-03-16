@@ -3,3 +3,11 @@ The reprojection notebooks should be used before the complete notebooks if every
 Here is a link to my overleaf paper:
 
 https://www.overleaf.com/5737446367hdsckdfdmngk
+
+And here are the major papers I'm using as reference:
+
+Shetty, 2012: https://arxiv.org/pdf/1206.5803.pdf (HCN, HCO+ in the CMZ)
+Mills, 2017: https://arxiv.org/pdf/1701.04822.pdf (Abundance ratios)
+Krieger, 2020: https://arxiv.org/pdf/2008.02518.pdf (CO comparison results)
+Meier, 2018: https://arxiv.org/pdf/1501.05694.pdf (HCN, HCO+ in NGC253)
+Leeroy, 2018: https://iopscience.iop.org/article/10.3847/1538-4357/aaecd1/pdf (Describes clusters in NGC253)
