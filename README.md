@@ -1,4 +1,6 @@
-The reprojection notebooks should be used before the complete notebooks if everything is to run smoothly
+The reprojection notebooks should be used before the complete notebooks if everything is to run smoothly.
+
+If you want to repurpose them for different regions, just change the sky coordinates for the starting and stopping position to the region you wish to observe. The CMZ reprojection uses Glong and Glat by default, while NGC253 uses RA and DEC
 
 Here is a link to my overleaf paper:
 
