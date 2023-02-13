@@ -1,3 +1,31 @@
+The completed notebooks should be runnable with no errors to reproduce individual results. I plan to make one for each Krieger result, and all the most concise, matched results, and then for the parameter analysis.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 The current version of each file should be the one with the highest version number.
 
 The reprojection notebooks should be used before the complete notebooks if everything is to run smoothly.
