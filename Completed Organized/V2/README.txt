@@ -1,5 +1,10 @@
 ###
 
+This is the most modern version of the "completed plots", but there will be additional adjustments to the Krieger analysis if any more devolpments are discovered.
+There is also an alternate analysis done that is supposed to exactly replicate Krieger's analysis, and it is documented in the (low noise) files in the previous folder.
+
+###
+
 Here I have the results that replicate Krieger 2020, approximately replicate Shetty 2012, and the modified version of the analysis which provides results more consistent--ergo, they do not vary wildly with the parameters of the dendrogram.
 
 ###
@@ -15,3 +20,6 @@ Steps are broken into data reduction (reprojection), dendrogram calculation, den
 Any errors should be simple to resolve, and are likely caused by a simple difference in numpy, astropy, or astrodendro distributions (or others) or possibly RAM overflow.
 
 ###
+
+
+
