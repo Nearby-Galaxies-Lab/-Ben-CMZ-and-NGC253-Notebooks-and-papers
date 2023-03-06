@@ -34,8 +34,7 @@ If you want to repurpose them for different regions, just change the sky coordin
 
 Here is a link to my overleaf paper:
 
-https://www.overleaf.com/5737446367hdsckdfdmngk
-
+####
 And here are the major papers I'm using as reference:
 
 Shetty, 2012: https://arxiv.org/pdf/1206.5803.pdf (HCN, HCO+ in the CMZ)
